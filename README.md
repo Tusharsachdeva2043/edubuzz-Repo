@@ -1,3 +1,3 @@
-# scm file edubuzz
+# scm file (edubuzz)
 
-some description
+it is a educational website for Html, Css, JavaScript.
